@@ -1,4 +1,0 @@
-git config --global user.email dangnguyen3131tn@gmail.com
-git config --global user.name nguyendang313
-d:
-cd link thư mục
